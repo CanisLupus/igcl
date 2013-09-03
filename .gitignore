@@ -1,0 +1,9 @@
+*.o
+*.d
+*.sh
+Debug
+Release
+.settings
+/.cproject
+/.project
+
